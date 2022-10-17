@@ -1,0 +1,19 @@
+{
+  "name": "redshift_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start node app.js",
+    "dev":"nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-redshift": "^0.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
